@@ -1,7 +1,7 @@
 
 # Image Generation
 
-Build expo AI Image Generation App & DALL-E Clone
+Build  AI Image Generation App using expo  & DALL-E Clone
 
 ## Screenshots
 <div>
