@@ -8,7 +8,12 @@ Build  AI Image Generation App  & DALL-E Clone using expo
 <img src="https://user-images.githubusercontent.com/123269689/214631900-41c5402c-952f-46ff-85fe-7ab0de86f76f.jpeg" width="200"  alt="before_generate_img" >
  <img src="https://user-images.githubusercontent.com/123269689/214622414-1d5da8fe-904e-4719-b114-5b2b0014a762.jpeg" width="200"  alt="generate_img" >
  <img src="https://user-images.githubusercontent.com/123269689/214622431-33febf7c-0b97-46b0-9492-4f959593d62a.jpeg" width="200" alt="browse_collection">
+ <img src="https://user-images.githubusercontent.com/123269689/215204419-ae66ae5d-b537-4353-9d27-3dc5fb6d594a.jpeg" width="200" alt="longPress to dowload image" > 
+
 </div>
+
+## Note
+- Long Press on the image to download it or to show the prompt and username
 
 ## Installation
 
