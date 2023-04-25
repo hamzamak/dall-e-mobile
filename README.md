@@ -1,7 +1,7 @@
 
 # Image Generation
 
-Build  AI Image Generation App  & DALL-E Clone using expo 
+Build  AI Image Generation App  & DALL-E Clone using react native expo 
 
 ## Screenshots
 <div>
